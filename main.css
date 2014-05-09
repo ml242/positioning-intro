@@ -7,7 +7,7 @@ body {
 	width: 600px;
 }
 
-#a-div2 {
+#first-child {
 	/*width: 600px;*/
 	background-color: yellow;
 	position: relative;
@@ -15,7 +15,7 @@ body {
 	top: 50px;
 }
 
-#a-div3 {
+#second-child {
 	/*width: 600px;*/
 	background-color: red;
 	/*float: right;*/
@@ -27,7 +27,7 @@ body {
 	overflow: hidden;
 }
 
-#a-div4 {
+#second-child-sibling {
 	/*width: 600px;*/
 	background-color: purple;
 	float: left;
@@ -36,7 +36,7 @@ body {
 	overflow: hidden;
 }
 
-#a-div5 {
+#second-child-sibling-two {
 	/*width: 600px;*/
 	background-color: white;
 	float: left;
